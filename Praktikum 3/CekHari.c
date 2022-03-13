@@ -4,7 +4,7 @@
 /*Tanggal   : Senin, 7 Maret 2022*/
 
 #include<stdio.h>
-/*
+
 int main(){
     //kamus
     int a;
@@ -41,4 +41,4 @@ default :
     return 0;
 }
 
-*/
+
