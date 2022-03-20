@@ -2,7 +2,7 @@
 /*Pembuat   : 24060121110042-Naufal Arya Ramadhan*/
 /*Deskripsi : Menghitung tarif PLN berdasarkan golongan g dan pemakaian daya listrik l*/
 /*Tanggal   : Minggu, 20 Maret 2022*/
-/*
+
 int main(){
     //kamus
     int g,i,ta;
@@ -28,4 +28,4 @@ int main(){
     printf("Tarif = %d",ta);
     return 0;
 }
-*/
+
