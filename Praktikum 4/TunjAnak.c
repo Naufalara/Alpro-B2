@@ -2,7 +2,7 @@
 /*Pembuat   : 24060121110042-Naufal Arya Ramadhan*/
 /*Deskripsi : Menghitung tunjangan berdasarkan gaji pokok g dan jumlah anak a*/
 /*Tanggal   : Minggu, 20 Maret 2022*/
-/*
+
 int main(){
     //kamus
     int g,a,t;
@@ -25,4 +25,4 @@ int main(){
     printf("Tunjangan anak = Rp.%d ",t);
     return 0;
 }
-*/
+
